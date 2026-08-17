@@ -1,2 +1,2 @@
 #支持私库
-docker.io/library/python:3.14.6-slim-bookworm
+python:3.14.6-slim-bookworm
