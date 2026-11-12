@@ -3,3 +3,4 @@ python:3.14.6-slim-bookworm
 oven/bun:1.4.4
 golang:1.26.10-alpine
 debian:bookworm-slim
+vllm/vllm-openai:v0.33.0
